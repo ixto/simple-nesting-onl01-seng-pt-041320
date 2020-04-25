@@ -1,4 +1,7 @@
+# my_hash[:third] = "i'm third!"
 
+
+ 
 def hopper
 	programmer_hash = 
  		{
@@ -14,8 +17,9 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
         }
+    
+         
      }
-
 
 end
 
@@ -120,6 +124,9 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
+    
      }
 
 end
+
+hooperprogrammer_hash
