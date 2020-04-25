@@ -10,9 +10,9 @@ def hopper
           :languages => ["COBOL", "FORTRAN"]
         }
  		}
- 	end
- 		    programmer_hash[:grace_hopper] 
  	
+ 		    programmer_hash[:grace_hopper] 
+ 	end
         # :alan_kay => {
         #   :known_for => "Object Orientation",
         #   :languages => ["Smalltalk", "LISP"]
